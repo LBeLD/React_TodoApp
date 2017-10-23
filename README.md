@@ -1,12 +1,10 @@
-# Portfolio Page
+# Todo App
 
-Portfolio page coded with React, Bootstrap 4, Sass and Gulp.
+Todo App coded with React and Bootsrap 
 
 
 ## History
-Responsive and with clean design, this page is the first step for my goal of landing a Web Developer job.
-Coded with React and Bootstrap 4, this page shows some of my projects during my learning process. 
-It’s also a demonstration of my coding skills to future employers.
+User can add tasks with description, responsible person and priority. 
 
 ## Credits
 
@@ -14,8 +12,4 @@ It’s also a demonstration of my coding skills to future employers.
 -[BOOTSTRAP](http://getbootstrap.com/)  
 -[SASS](http://sass-lang.com/)   
 -[GULP](https://gulpjs.com/)   
--[LOGOMKR](https://logomakr.com/)  
--[FONTAWESOME](http://fontawesome.io/icons/)  
--[FORMSPREE](https://formspree.io/)     
--[ANIMATE](https://daneden.github.io/animate.css/)    
--[DEVICON](http://konpa.github.io/devicon/)
+
